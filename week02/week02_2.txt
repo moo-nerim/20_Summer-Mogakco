@@ -1,0 +1,38 @@
+『07.06』
+
+<Learning Objectives>
+⊙ HTML form 학습하기
+
+- <form action=""></form> => form 형태
+
+- <input type="submit"> => 제출버튼
+
+- dropdownlist
+    ex)
+    <select name="color">
+       <option value="red">붉은색</option>
+       <option value="black">검은색</option>
+       <option value="blue">파란색</option>
+    </select>
+
+    =======================================
+    《다중선택》
+    ex)
+    <select name="color2" multiple>
+
+- radiobox & checkbox
+    ex)
+    radiobox => 붉은색:<input type="radio" name="color" value="red">
+
+    checkbox => S:<input type="checkbox" name="size" value="95">
+
+- button
+    ex)
+    <input type="button" value="버튼" onclick="alert('hello world')">
+
+<Result of learning>
+- html form 사용법에 대해 학습함
+- form을 이용한 여러 html 구성해봄
+
+=> 다양한 form 형태가 있어서 좀 더 유연하게 사용할 수 있도록 학습을 해야할 것 같다.
+또한, 요구하는 형태에 맞춰 radiobox, checkbox등을 사용할 수 있도록 연습이 필요할 것 같다.
