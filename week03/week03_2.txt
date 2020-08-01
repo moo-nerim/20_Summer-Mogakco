@@ -1,0 +1,12 @@
+『07.16』
+
+<Learning Objectives>  
+⊙ 마스크 착용 여부를 감지하는 웹사이트 완성도 높이기
+(BottomUp collaboration)
+
+- html & css 수정사항 고치기
+
+<Result of learning>
+- 한달간 배운 html문법을 사용하여 웹사이트를 제작하게 됨
+
+=> 약간의 아쉬움이 느껴지는 부분은 BottomUp 대회 준비를 하면서 더 다듬어야 할 것 같다.

@@ -1,0 +1,12 @@
+『07.13』
+
+<Learning Objectives>  
+⊙ 마스크 착용 여부를 감지하는 웹사이트 제작하기
+(BottomUp collaboration)
+
+- html & css 작성하기
+
+<Result of learning>
+- 만들고자 했던 mask detection을 html과 css로 제작함
+
+=> html 부분을 완성도 있게 수정해야 할 것 같다.
